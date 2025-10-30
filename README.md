@@ -23,10 +23,10 @@ Deployment   → Streamlit Cloud (free)
 
 ---
 
-🧪 How to Use
+##🧪 How to Use
 
-Upload your resume (PDF)
-Read the AI roast (brace yourself)
-Review the ATS-optimized rewrite
-Download your new resume
-Apply and get interviews
+~ Upload your resume (PDF)
+~ Read the AI roast (brace yourself)
+~ Review the ATS-optimized rewrite
+~ Download your new resume
+~ Apply and get interviews
